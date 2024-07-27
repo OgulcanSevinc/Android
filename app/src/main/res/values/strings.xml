@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android_client</string>
+    <string name="Login">Login</string>
+    <string name="utilisateur">Nom d\'utilisateur</string>
+    <string name="mdp">"Mot de passe "</string>
+    <string name="btnConnexion">Se connecter \n</string>
+    <string name="NvClient">Nouveau client</string>
+    <string name="home">HOME\n</string>
+    <string name="panier">PANIER\n</string>
+    <string name="setting">SETTING\n</string>
+    <string name="article">Article :</string>
+    <string name="prix">"Prix a l'unité : "</string>
+    <string name="stock">Stock :\n</string>
+    <string name="quantite">nb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="btnSuivant">Suivant</string>
+    <string name="btnPrecedent">Précédent</string>
+    <string name="btnAcheter">Acheter</string>
+    <string name="ShopNav">SHOP</string>
+    <string name="shopNav">SHOP</string>
+    <string name="panierNav">PANIER</string>
+    <string name="settingsNav">SETTINGS\n</string>
+    <string name="btnViderPanier">Vider panier</string>
+    <string name="btnSupprimerArticle">Supprimer article</string>
+    <string name="btnConfirmerAchat">Confirmer</string>
+    <string name="contenu_de_la_scrollview_pour_le_panier">Contenue</string>
+    <string name="montantTotal">Prix total</string>
+    <string name="gotomain"><![CDATA[<-]]></string>
+    <string name="deco">Deconnexion</string>
+
+</resources>
